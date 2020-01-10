@@ -1,5 +1,5 @@
 ---
 # defaults file for apache
 
-role_apache_listening_port: 80
+role_apache_listening_port: 8080
 
