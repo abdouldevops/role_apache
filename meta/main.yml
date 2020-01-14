@@ -1,6 +1,6 @@
 galaxy_info:
   author: Abdoulaye
-  description: This is a to install apache on CentOs based distros
+  description: This is a role to install apache on CentOs based distros
   company: Capgemini
 
   # If the issue tracker for your role is not on github, uncomment the
